@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bugs</string>
+    <string name="title_activity_bug70192">Bug 70192</string>
+    <string name="bug70192_usage_stats">%.2f Liter(s)</string>
+
+</resources>
